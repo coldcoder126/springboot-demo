@@ -1,0 +1,46 @@
+2021-01-10 13:33:38.830  INFO 13320 --- [main] c.f.h.s.boot.HelloSpringbootApplication  : Starting HelloSpringbootApplication on LAPTOP-M98HGLM4 with PID 13320 (D:\WorkSpace\IDEA\hello-springboot\target\classes started by 13483 in D:\WorkSpace\IDEA\hello-springboot)
+2021-01-10 13:33:38.830  INFO 13320 --- [main] c.f.h.s.boot.HelloSpringbootApplication  : No active profile set, falling back to default profiles: default
+2021-01-10 13:33:39.408  INFO 13320 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2021-01-10 13:33:39.424  INFO 13320 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-10 13:33:39.424  INFO 13320 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2021-01-10 13:33:39.471  INFO 13320 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2021-01-10 13:33:39.471  INFO 13320 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 610 ms
+2021-01-10 13:33:39.580  INFO 13320 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-10 13:33:39.705  INFO 13320 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path '/boot'
+2021-01-10 13:33:39.705  INFO 13320 --- [main] c.f.h.s.boot.HelloSpringbootApplication  : Started HelloSpringbootApplication in 1.251 seconds (JVM running for 1.995)
+2021-01-10 13:34:57.249  INFO 13944 --- [main] c.f.h.s.boot.HelloSpringbootApplication  : Starting HelloSpringbootApplication on LAPTOP-M98HGLM4 with PID 13944 (D:\WorkSpace\IDEA\hello-springboot\target\classes started by 13483 in D:\WorkSpace\IDEA\hello-springboot)
+2021-01-10 13:34:57.249  INFO 13944 --- [main] c.f.h.s.boot.HelloSpringbootApplication  : No active profile set, falling back to default profiles: default
+2021-01-10 13:34:57.828  INFO 13944 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2021-01-10 13:34:57.828  INFO 13944 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-10 13:34:57.843  INFO 13944 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2021-01-10 13:34:57.890  INFO 13944 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2021-01-10 13:34:57.890  INFO 13944 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 609 ms
+2021-01-10 13:34:57.968  INFO 13944 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-10 13:34:58.078  INFO 13944 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path '/boot'
+2021-01-10 13:34:58.078  INFO 13944 --- [main] c.f.h.s.boot.HelloSpringbootApplication  : Started HelloSpringbootApplication in 1.127 seconds (JVM running for 1.769)
+2021-01-10 13:36:01.714  INFO 13944 --- [http-nio-9090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-10 13:36:01.714  INFO 13944 --- [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-01-10 13:36:01.721  INFO 13944 --- [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2021-01-10 14:22:37.410  INFO 8596 --- [main] .f.h.s.b.HelloSpringbootApplicationTests : Starting HelloSpringbootApplicationTests on LAPTOP-M98HGLM4 with PID 8596 (started by 13483 in D:\WorkSpace\IDEA\hello-springboot)
+2021-01-10 14:22:37.410  INFO 8596 --- [main] .f.h.s.b.HelloSpringbootApplicationTests : No active profile set, falling back to default profiles: default
+2021-01-10 14:22:38.417  INFO 8596 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-10 14:22:38.616  INFO 8596 --- [main] .f.h.s.b.HelloSpringbootApplicationTests : Started HelloSpringbootApplicationTests in 1.541 seconds (JVM running for 2.304)
+2021-01-10 14:22:38.928  INFO 8596 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-10 14:25:31.859  INFO 18684 --- [main] c.f.h.s.boot.HelloSpringbootApplication  : Starting HelloSpringbootApplication on LAPTOP-M98HGLM4 with PID 18684 (D:\WorkSpace\IDEA\hello-springboot\target\classes started by 13483 in D:\WorkSpace\IDEA\hello-springboot)
+2021-01-10 14:25:31.859  INFO 18684 --- [main] c.f.h.s.boot.HelloSpringbootApplication  : No active profile set, falling back to default profiles: default
+2021-01-10 14:25:32.406  INFO 18684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2021-01-10 14:25:32.426  INFO 18684 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-10 14:25:32.427  INFO 18684 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2021-01-10 14:25:32.463  INFO 18684 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-01-10 14:25:32.463  INFO 18684 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 572 ms
+2021-01-10 14:25:32.573  INFO 18684 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-10 14:25:32.668  INFO 18684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2021-01-10 14:25:32.668  INFO 18684 --- [main] c.f.h.s.boot.HelloSpringbootApplication  : Started HelloSpringbootApplication in 1.107 seconds (JVM running for 1.73)
+2021-01-10 14:25:54.622  INFO 18684 --- [http-nio-9090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-10 14:25:54.623  INFO 18684 --- [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-01-10 14:25:54.628  INFO 18684 --- [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2021-01-10 14:26:23.116  INFO 21420 --- [main] .f.h.s.b.HelloSpringbootApplicationTests : Starting HelloSpringbootApplicationTests on LAPTOP-M98HGLM4 with PID 21420 (started by 13483 in D:\WorkSpace\IDEA\hello-springboot)
+2021-01-10 14:26:23.116  INFO 21420 --- [main] .f.h.s.b.HelloSpringbootApplicationTests : No active profile set, falling back to default profiles: default
+2021-01-10 14:26:24.085  INFO 21420 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-10 14:26:24.298  INFO 21420 --- [main] .f.h.s.b.HelloSpringbootApplicationTests : Started HelloSpringbootApplicationTests in 1.515 seconds (JVM running for 2.3)
+2021-01-10 14:26:24.583  INFO 21420 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
